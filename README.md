@@ -128,6 +128,13 @@ for ( i = 0; i < 100; i++ ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/utils/async/try-catch`][@stdlib/utils/async/try-catch]: if a function does not return an error, invoke a callback with the function result; otherwise, invoke a callback with a value `y`.
+-   [`@stdlib/utils/try-then`][@stdlib/utils/try-then]: if a function does not throw, return the function return value; otherwise, return the return value of a second function.
+
 </section>
 
 <!-- /.related -->
@@ -188,6 +195,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-try-catch/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/utils/async/try-catch]: https://github.com/stdlib-js/utils-async-try-catch
+
+[@stdlib/utils/try-then]: https://github.com/stdlib-js/utils-try-then
+
+<!-- </related-links> -->
 
 </section>
 
