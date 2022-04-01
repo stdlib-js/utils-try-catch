@@ -1,0 +1,38 @@
+{
+  "name": "@stdlib/utils-try-catch",
+  "version": "0.0.0",
+  "description": "If a function does not throw, return the function return value; otherwise, return `y`.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/utils-try-catch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdutils",
+    "stdutil",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "try",
+    "catch",
+    "try-catch",
+    "trap",
+    "control",
+    "flow",
+    "condition",
+    "conditional",
+    "either-or"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
