@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import trycatch from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-try-catch@deno/mod.js';
+import trycatch from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-try-catch@v0.2.1-deno/mod.js';
 ```
 
 #### trycatch( x, y )
@@ -97,7 +97,7 @@ z = trycatch( x2, -1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import trycatch from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-try-catch@deno/mod.js';
+import trycatch from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-try-catch@v0.2.1-deno/mod.js';
 
 var z;
 var i;
