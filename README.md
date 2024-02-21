@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import trycatch from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-try-catch@esm/index.mjs';
+import trycatch from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-try-catch@v0.2.1-esm/index.mjs';
 ```
 
 #### trycatch( x, y )
@@ -102,7 +102,7 @@ z = trycatch( x2, -1.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import trycatch from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-try-catch@esm/index.mjs';
+import trycatch from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-try-catch@v0.2.1-esm/index.mjs';
 
 var z;
 var i;
