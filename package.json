@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-try-catch",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "If a function does not throw, return the function return value; otherwise, return `y`.",
   "license": "Apache-2.0",
   "author": {
@@ -38,8 +38,8 @@
   },
   "dependencies": {
     "@stdlib/assert-is-function": "^0.2.1",
-    "@stdlib/string-format": "^0.2.1",
-    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
+    "@stdlib/string-format": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/math-base-assert-is-nan": "^0.2.1",
