@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import trycatch from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-try-catch@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-try-catch/tags). For example,
+
+```javascript
 import trycatch from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-try-catch@v0.2.3-esm/index.mjs';
 ```
 
@@ -102,7 +107,7 @@ z = trycatch( x2, -1.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import trycatch from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-try-catch@v0.2.3-esm/index.mjs';
+import trycatch from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-try-catch@esm/index.mjs';
 
 var z;
 var i;
